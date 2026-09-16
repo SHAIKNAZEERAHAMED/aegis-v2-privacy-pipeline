@@ -181,3 +181,6 @@ Never commit `backend/.env`, `backend/venv`, `frontend/.env.local`,
 Add the license and citation information appropriate for your project before
 sharing the repository publicly. Review the model and dependency licenses as
 well as your obligations for any video data used during testing.
+
+for demo open
+https://drive.google.com/file/d/1xRRctWWIbHw5b-G2vsWwpeVnjEWiJOSQ/view?usp=drivesdk 
